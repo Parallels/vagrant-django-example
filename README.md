@@ -41,4 +41,4 @@ nohup python manage.py runserver [::]:8000 >&/dev/null &
 exit
 ```
 
-Now if you point your browser to http://localhost:8000, you'll see a fresh Django installation.
+Now if you point your browser to [http://localhost:8000](http://localhost:8000), you'll see a fresh Django installation.
